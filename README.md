@@ -64,6 +64,7 @@ git clone https://github.com/octokit/graphql-schema.git
 cd graphql-schema
 npm install
 npm test
+run: build website 
 ```
 
 Update schema files (`GITHUB_TOKEN` requires no scope)
